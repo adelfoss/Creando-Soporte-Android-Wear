@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "267848446242",
+    "firebase_url": "https://petagram-miscontactos.firebaseio.com",
+    "project_id": "petagram-miscontactos",
+    "storage_bucket": "petagram-miscontactos.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:267848446242:android:54382a2f67b95cb4",
+        "android_client_info": {
+          "package_name": "com.example.adelfo.miscontactos"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "267848446242-0orjs3hsof81ar2kg6ut8b0a1niu9oke.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.adelfo.miscontactos",
+            "certificate_hash": "C5BE0225DC726D32E39BD3C3D35F8C07234FB101"
+          }
+        },
+        {
+          "client_id": "267848446242-rha2sf7ufua5r8dvp3f1qgtskse2pdiq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCCV407iwf2tfgm4NN3ylYEbxE7_vatbeQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "267848446242-rha2sf7ufua5r8dvp3f1qgtskse2pdiq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

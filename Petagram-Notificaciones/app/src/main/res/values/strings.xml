@@ -1,0 +1,46 @@
+<resources>
+    <string name="app_name">Petagram</string>
+    <string name="nombre">Adelfo Salazar</string>
+    <string name="telefono">7771591365</string>
+    <string name="pNombre">nombre</string>
+    <string name="pTelefono">telefono</string>
+    <string name="pEmail">email</string>
+    <string name="pLikes">0</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Vacío</string>
+
+    <string name="menu_contacto">Contacto</string>
+    <string name="menu_acerca_de">Acerca de</string>
+    <string name="menu_configurar_cuenta">Configurar cuenta</string>
+
+    <string name="escribir_usuario">Escribe tu usuario</string>
+    <string name="guardar_cuenta">Guardar cuenta</string>
+
+    <string name="tv_email">adelfosalazar@gmail.com</string>
+    <string name="tv_acerca_de">Petagram</string>
+    <string name="tv_desarrollado_por">Desarrollador: Adelfo Salazar Salazar</string>
+    <string name="tv_version">Versión:</string>
+    <string name="tv_version2">1.0</string>
+    <string name="tv_acerca_de_petagram">Esta aplicación fue desarrollada para la evaluación de las
+        actividades correspondientes a la semana 1 del curso \"Desarrollo de aplicaciones avanzadas con Android\", mostrando principalmente el consumo de servicios web, la API de Instagram  en este caso.</string>
+    <string name="etLinkedin">https://mx.linkedin.com/in/adelfosalazar</string>
+
+    <string name="enviar_email">Enviar email...</string>
+    <string name="no_aplicacion_email">No hay ningún cliente email instalado</string>
+    <string name="title_contacto">Contacto</string>
+    <string name="usuario_default">perritocheno</string>
+    <string name="usuario_nombre">usuario_nombre</string>
+    <string name="title_configurar_cuenta">Configurar cuenta</string>
+    <string name="nombre_base_datos">UsuariosPetagram</string>
+    <string name="usuario_guardado">Se guardó el usuario</string>
+    <string name="recibirNotificacion">Recibir notificaciones</string>
+    <string name="menu_recibir_notificaciones">Recibir notificaciones</string>
+    <string name="texto_ver_mi_perfil">Ver mi perfil</string>
+    <string name="texto_follow_unfollow">Follow/Unfollow</string>
+    <string name="texto_ver_usuario">Ver usuario</string>
+    <string name="nombre_bd">UsuariosPetagram</string>
+    <string name="default_user_name">perritocheno</string>
+    <string name="liked_user_id">liked_user_id</string>
+    <string name="liked_user_name">liked_user_name</string>
+</resources>
